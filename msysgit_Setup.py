@@ -10,7 +10,7 @@ app.Connect_(best_match="Git SetUp")
 time.sleep(8)
 app.GitSetup.Next.Click()
 time.sleep(5)
-
+#-----------------------------------
 #GNU license
 app.GitSetup.Next.Click()
 time.sleep(5)
