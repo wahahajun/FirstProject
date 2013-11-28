@@ -1,4 +1,3 @@
-# --------------------this is test for local---------------
 from pywinauto import application
 import time
 
