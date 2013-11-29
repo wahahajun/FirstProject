@@ -1,4 +1,5 @@
-# this is edit in local
+﻿# this is edit in local
+# this is another edit in local 
 Ext.define("JP1.view.CentralConsoleFilterGroup",{
 	extend:"Ext.panel.Panel",
 	lang:null,
